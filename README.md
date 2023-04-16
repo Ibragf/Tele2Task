@@ -10,6 +10,6 @@ docker-compose up --build -d
 
 Протестировать работу можно по ссылке:
 
-http://galaur.ru/swagger/index.html
+http://galaur.ru/swagger
 
  
